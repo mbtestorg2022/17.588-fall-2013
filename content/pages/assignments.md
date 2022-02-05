@@ -20,17 +20,134 @@ The table below contains suggested response paper topics, and the week in which 
 
 Note: there were no paper topics given during Week 1.
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 2 | Does democracy depend upon a particular class structure? If so, which one? |
-| 3 | Assume that, as an empirical matter, Islamic countries are less likely to be democracies than other countries that appear to share similar characteristics. (I.e., assume that the sign on "percentage of the population that is Muslim" or "majority Muslim country" is statistically significant and non-trivial in magnitude in an OLS regression, in which the dependent variable is Polity IV score and the control variables include level of economic development, economic inequality, education, geography, etc.) Is Islamic culture responsible for this difference? Which aspects of Islam? |
-| 4 | What would happen if the United States adopted a proportional representation electoral system tomorrow? \[If you are not from the U.S. and want to write on some equally significant change in your home country, that is fine too.\] |
-| 5 | Under what circumstances do rulers "matter"? |
-| 6 | Pick a country. Does this country have a weak or a strong state? Which of the arguments you encountered in the readings best explains why the state is strong or weak? |
-| 7 | _The Social Origins of Dictatorship and Democracy_ is a brilliant but in some respects frustrating work; since it was published forty years ago, scholars have repeatedly attempted to reinterpret and tinker with Moore's basic analytical framework or rethink his method. What do you see as his fundamental argument? What is he trying to explain – i.e., what is (or are) his dependent variable (or variables)? If you could reformulate Moore's argument to make it as compelling as possible, how would you do so? |
-| 8 | What sort of political institutions are most likely to promote economic growth? |
-| 9 | [Option 1 (PDF)]({{< baseurl >}}/resources/mit17_588f13_week9paper1) {{< br >}}{{< br >}} [Option 2 (PDF)]({{< baseurl >}}/resources/mit17_588f13_week9paper2) {{< br >}}{{< br >}}  |
-| 10 | Over the last four decades, there have been many critiques of (Donald) Stokes's spatial model of voting but no one framework has supplanted it. What alternatives can you think of to the spatial model? How could you tell if any one particular alternative was superior? |
-| 11 | [Option 1 (PDF)]({{< baseurl >}}/resources/mit17_588f13_week11paper1) {{< br >}}{{< br >}} [Option 2 (PDF)]({{< baseurl >}}/resources/mit17_588f13_week11paper2) {{< br >}}{{< br >}}  |
-| 12 | The World Bank has hired you to recommend ways to reduce corruption in rural health clinics in the Kyrgyz Republic. Assuming that you find what you would expect to find after arriving in Bishkek (empty shelves where pharmaceuticals and bandages should be, hospital workers charging patients for clean syringes, rampant absenteeism, ghost employees, etc.), what would you recommend be done? |
-| 13 | Was the political system of classical Athens more or less democratic than that of the United States of America? In what ways? During which periods? What would be the modern critique of Athenian democracy? The Athenian critique of modern democracy?
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Does democracy depend upon a particular class structure? If so, which one?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Assume that, as an empirical matter, Islamic countries are less likely to be democracies than other countries that appear to share similar characteristics. (I.e., assume that the sign on "percentage of the population that is Muslim" or "majority Muslim country" is statistically significant and non-trivial in magnitude in an OLS regression, in which the dependent variable is Polity IV score and the control variables include level of economic development, economic inequality, education, geography, etc.) Is Islamic culture responsible for this difference? Which aspects of Islam?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+What would happen if the United States adopted a proportional representation electoral system tomorrow? \[If you are not from the U.S. and want to write on some equally significant change in your home country, that is fine too.\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Under what circumstances do rulers "matter"?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Pick a country. Does this country have a weak or a strong state? Which of the arguments you encountered in the readings best explains why the state is strong or weak?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_The Social Origins of Dictatorship and Democracy_ is a brilliant but in some respects frustrating work; since it was published forty years ago, scholars have repeatedly attempted to reinterpret and tinker with Moore's basic analytical framework or rethink his method. What do you see as his fundamental argument? What is he trying to explain – i.e., what is (or are) his dependent variable (or variables)? If you could reformulate Moore's argument to make it as compelling as possible, how would you do so?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+What sort of political institutions are most likely to promote economic growth?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+[Option 1 (PDF)]({{< baseurl >}}/resources/mit17_588f13_week9paper1)
+
+[Option 2 (PDF)]({{< baseurl >}}/resources/mit17_588f13_week9paper2)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Over the last four decades, there have been many critiques of (Donald) Stokes's spatial model of voting but no one framework has supplanted it. What alternatives can you think of to the spatial model? How could you tell if any one particular alternative was superior?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+[Option 1 (PDF)]({{< baseurl >}}/resources/mit17_588f13_week11paper1)
+
+[Option 2 (PDF)]({{< baseurl >}}/resources/mit17_588f13_week11paper2)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The World Bank has hired you to recommend ways to reduce corruption in rural health clinics in the Kyrgyz Republic. Assuming that you find what you would expect to find after arriving in Bishkek (empty shelves where pharmaceuticals and bandages should be, hospital workers charging patients for clean syringes, rampant absenteeism, ghost employees, etc.), what would you recommend be done?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Was the political system of classical Athens more or less democratic than that of the United States of America? In what ways? During which periods? What would be the modern critique of Athenian democracy? The Athenian critique of modern democracy?
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
