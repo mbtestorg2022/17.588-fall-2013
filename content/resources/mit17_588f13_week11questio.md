@@ -4,6 +4,7 @@ description: This resource file contains information regarding week 11 discussio
   questions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-588-field-seminar-in-comparative-politics-fall-2013/9e67c6b244fe2eb844d193727ee65004_MIT17_588F13_Week11Questio.pdf
 file_type: application/pdf
+parent_uid: 08113404-3960-a473-8e30-7595d3a28d5f
 resourcetype: Document
 title: '17.588F13 Field Seminar in Comparative Politics: Wk 11 Discussion Questions'
 uid: 9e67c6b2-44fe-2eb8-44d1-93727ee65004
