@@ -349,7 +349,7 @@ Magaloni, Beatriz, Alberto Diaz-Caybros, and Federico Estévez. "Clientelism and
 
 Finan, Frederico, and Laura Schechter. "[Vote-Buying and Reciprocity](http://dx.doi.org/10.3982/ECTA9035)." _Econometrica_ 80, no. 2 (2012): 863–81.
 
-Vicente, Pedro C. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Is Vote-buying Effective? Evidence from a Field Experiment in West Africa." (PDF - 2.3 MB)](http://www.pedrovicente.org/banho.pdf) 2013. pedrovicente.org.
+Vicente, Pedro C. ["Is Vote-buying Effective? Evidence from a Field Experiment in West Africa." (PDF - 2.3 MB)](http://www.pedrovicente.org/banho.pdf) 2013. pedrovicente.org.
 
 _See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
 
@@ -417,7 +417,7 @@ Ober, Josiah. "Public Speech and the Power of the People in Democratic Athens." 
 
 ———. "[Learning from Athens](http://www.bostonreview.net/josiah-ober-learning-from-athens)," _Boston Review_, March 1, 2006.
 
-Schmitter, Philippe C. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"A Proposal for the Creation of a 'Citizen's Assembly'." (PDF)](http://www.eui.eu/Documents/DepartmentsCentres/SPS/Profiles/Schmitter/CitizenAssembly.pdf) 2002.
+Schmitter, Philippe C. ["A Proposal for the Creation of a 'Citizen's Assembly'." (PDF)](http://www.eui.eu/Documents/DepartmentsCentres/SPS/Profiles/Schmitter/CitizenAssembly.pdf) 2002.
 
 _See the [Questions for Class Discussion]({{< baseurl >}}/pages/questions-for-class-discussion) section_
 

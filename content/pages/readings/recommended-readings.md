@@ -153,7 +153,7 @@ Coppedge, Michael. _Strong Parties and Lame Ducks: Presidential Partyarchy and F
 
 Powell, Jr., G. Bingham. "[Constitutional Design and Citizen Electoral Control](http://dx.doi.org/10.1177/0951692889001002001)." _Journal of Theoretical Politics_ 1, no. 2 (1989): 107–30.
 
-Rodden, Jonathan. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"The Dilemma of Fiscal Federalism: Grants and Fiscal Performance around the World." (PDF - 2.7 MB)](http://www.stanford.edu/~jrodden/AJPS.2002.pdf) _American Journal of Political Science_ 46, no. 3 (2002): 670–87.
+Rodden, Jonathan. ["The Dilemma of Fiscal Federalism: Grants and Fiscal Performance around the World." (PDF - 2.7 MB)](http://www.stanford.edu/~jrodden/AJPS.2002.pdf) _American Journal of Political Science_ 46, no. 3 (2002): 670–87.
 
 Schmitter, Philippe C. "Interest intermediation and regime governability in contemporary Western Europe and North America." Chapter 10 in _Organizing Interests in Western Europe: Pluralism, Corporatism, and the Transformation of Politics_. Edited by Suzanne D. Berger. Cambridge University Press, 1983. ISBN: 9780521270625. \[Preview with [Google Books](http://books.google.com/books?id=t9U8AAAAIAAJ&pg=PA285=onepage)\]
 
@@ -177,9 +177,9 @@ Samuels, Richard J. _Machiavelli's Children: Leaders & Their Legacies in Italy &
 
 Mukunda, Gautam. _Indispensable: When Leaders Really Matter_. Harvard Business Review Press, 2012. ISBN: 9781422186701. 
 
-Lawson, Chappell. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Rulership: How and Why Political Leaders Matter." 2013.
+Lawson, Chappell. "Rulership: How and Why Political Leaders Matter." 2013.
 
-Padgett, John F., and Christopher K. Ansell. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Robust Action and the Rise of the Medici, 1400–1434 (PDF - 1.4 MB)](http://home.uchicago.edu/~jpadgett/papers/published/robust.pdf)." _American Journal of Sociology_ 98, no. 6 (1993): 1259–319.
+Padgett, John F., and Christopher K. Ansell. "[Robust Action and the Rise of the Medici, 1400–1434 (PDF - 1.4 MB)](http://home.uchicago.edu/~jpadgett/papers/published/robust.pdf)." _American Journal of Sociology_ 98, no. 6 (1993): 1259–319.
 
 Greenstein, Fred I. "[The Impact of Personality on the End of the Cold War: A Counterfactual Analysis](http://dx.doi.org/10.1111/0162-895X.00089)." _Political Psychology_ 19, no. 1 (1998): 1–16.
 
@@ -264,7 +264,7 @@ Skocpol, Theda. "[A Critical Review of Barrington Moore's Social Origins of Dict
 Moore, Jr., Barrington. _Social Origins of Dictatorship and Democracy: Lord and Peasant in the Making of the Modern World_. Beacon Press, 1993. ISBN: 9780807050736.  
 Note: Read the sections not assigned as required readings.
 
-Glynn, Adam N., and Nahomi Ichino. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Increasing Inferential Leverage in the Comparative Method: Placebo Tests in Small-n Research." (PDF)](http://scholar.harvard.edu/files/aglynn/files/glynn-ichino-comparativemethod.pdf) 2012.
+Glynn, Adam N., and Nahomi Ichino. "[Increasing Inferential Leverage in the Comparative Method: Placebo Tests in Small-n Research." (PDF)](http://scholar.harvard.edu/files/aglynn/files/glynn-ichino-comparativemethod.pdf) 2012.
 
 Capoccia, Giovanni, and Daniel Ziblatt. "[The Historical Turn in Democratization Studies: A New Research Agenda for Europe and Beyond](http://dx.doi.org/10.1177/0010414010370431)." _Comparative Political Studies_ 43, no. 8–9 (2010): 931–68.
 
